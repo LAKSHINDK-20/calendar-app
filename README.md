@@ -51,34 +51,19 @@ calendar-app/
 ├── package.json
 └── README.md
 ```
-
 ---
-
-## ✨ Customization
-
-- Add new UI features using `lucide-react` icons
-- Expand with event modals, local storage, or drag-and-drop support
-- Style using Tailwind utility classes or add custom extensions in `tailwind.config.js`
-
+##To run
+```
+Step1:Open App.jsx from src file.
+Step2:Open terminal the write npm run dev.
+      *If not then change direcotry to cd calendar-app.*
+Step3:Below the localhost link pops' up
+      Press "Ctrl+click".
+Step4:The application runs.
+```
 ---
-
-## 🧪 To Do
-
-- [ ] Add support for adding/editing events
-- [ ] Persist events in local storage
-- [ ] Show events in date cells
-- [ ] Add a light/dark mode toggle
-
+##Time-Taken
+```
+Time Taken:12-14hrs
+```
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🙌 Acknowledgements
-
-- [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Lucide Icons](https://lucide.dev/)
