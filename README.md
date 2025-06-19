@@ -34,3 +34,51 @@ git clone https://github.com/your-username/calendar-app.git
 cd calendar-app
 npm install
 npm start
+
+---
+
+## 🔧 Project Structure
+
+```
+calendar-app/
+├── src/
+│   ├── components/
+│   │   └── CalendarGrid.jsx
+│   ├── App.jsx
+│   ├── index.js
+│   └── styles.css
+├── tailwind.config.js
+├── package.json
+└── README.md
+```
+
+---
+
+## ✨ Customization
+
+- Add new UI features using `lucide-react` icons
+- Expand with event modals, local storage, or drag-and-drop support
+- Style using Tailwind utility classes or add custom extensions in `tailwind.config.js`
+
+---
+
+## 🧪 To Do
+
+- [ ] Add support for adding/editing events
+- [ ] Persist events in local storage
+- [ ] Show events in date cells
+- [ ] Add a light/dark mode toggle
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgements
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Lucide Icons](https://lucide.dev/)
